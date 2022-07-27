@@ -1,6 +1,6 @@
 I began this project because I was having a hard time deciding whether or not it would be beneficial to attend a master’s program in ‘data science’ to more readily prepare myself for a career shift into the tech space. The project quickly snowballed into a multi-faceted review based on the data used and my own stubborn curiosity. Although the findings presented in the Jupyter Notebooks are, in my own opinion, underwhelming, I did find the answer to my initial question and as well as a direction forward.
 
-LINK TO NOTEBOOK via nbviewer: 
+LINK TO NOTEBOOK via nbviewer: https://nbviewer.org/github/T-Rivers/Stack-Overflow-Developer-Survey-EDA-Years-2016-2021/blob/main/eda%20-%20Stack%20Overflow%20Developer%20Survey%20Years%202016-2021.ipynb
 
 **What you will find in the Jupyter Notebook:**
 
